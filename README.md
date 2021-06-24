@@ -1,1 +1,1 @@
-This file is for storing VBA Homework on VAA of Wall Street
+This file is for storing VBA Homework on VBA of Wall Street
